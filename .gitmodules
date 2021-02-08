@@ -1,0 +1,8 @@
+[submodule "athrill-target-ARMv7-A"]
+	path = athrill-target-ARMv7-A
+	url = https://github.com/toppers/athrill-target-ARMv7-A.git
+	branch = master
+[submodule "athrill"]
+	path = athrill
+	url = https://github.com/toppers/athrill.git
+	branch = master
